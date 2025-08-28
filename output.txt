@@ -1,0 +1,16 @@
+Test Case 1:
+Polynomial coefficients (degree 2):
+c[0] = 3
+c[1] = 0
+c[2] = 1
+----
+Test Case 2:
+Polynomial coefficients (degree 6):
+c[0] = 1.10681e+20
+c[1] = -2.68093e+20
+c[2] = 2.42626e+20
+c[3] = -1.07222e+20
+c[4] = 2.47239e+19
+c[5] = -2.84374e+18
+c[6] = 1.28308e+17
+----
